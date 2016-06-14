@@ -6,12 +6,12 @@ Every Things u see just POTATO or somethings else! :O
 {NOTE}this just for text,dont angry ..relax :3
 -i make plugins for u guys :D
 *mcpe server plugins :P
-*============================*
+
+
 👉 My google+ 
 link: 
 👉 My Twitter
 link: 
-* ============================*
 PS}dont forget check Github: @dktapps
 -> follow him!
 -> check his plugins!
