@@ -1,4 +1,4 @@
-# MCPE Server Plugins
+# MCPE Server Plugins {GameModeEZ}
 -GameModeEZ pugins is just ez and fast way to change u gamemode
 /gmc *for change cretive
 /gms *survival
