@@ -1,18 +1,9 @@
-# Doge
-Every Things u see just POTATO or somethings else! :O
-✨Doge is Lengend! u cant no beat him()
--->yup u will never get the info!
-      get reck! by doge are u sure u can defeat doge?u mad bro :3 m8 sorry btw U will nerver know who am i,mu hahahaðŸ˜‚jk :3
-{NOTE}this just for text,dont angry ..relax :3
--i make plugins for u guys :D
-*mcpe server plugins :P
+# MCPE Server Plugins {GameModeEZ}
+-GameModeEZ pugins is just ez and fast way to change u gamemode
+/gmc *for change cretive
+/gms *survival
+/gmsp *spectator
+and is work with this command like original
+tips /gm {mode}
 
-
-👉 My google+ 
-link: 
-👉 My Twitter
-link: 
-PS}dont forget check Github: @dktapps
--> follow him!
--> check his plugins!
-.
+Have Fun
