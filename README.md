@@ -9,6 +9,8 @@ Every Things u see just POTATO or somethings else! :O
 #a
 >lol
 
-| Permission | Default | Description |
+
+>text Gui
+| ... | ... | ... |
 | :---: | :---: | :--- |
-| fasttransfer.command.transfer | op | Allows to transfer players to another server |
+| ... | ... | ... |
